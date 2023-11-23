@@ -1,2 +1,2 @@
 # Geometry_Plus_Plus
-An elementary Computational Geometry Components Library for Geometry Enthusiasts
+An elementary C++ Computational Geometry Components Library for Geometry Enthusiasts
