@@ -9,3 +9,5 @@ For bug reports and assistance, feel free to mail me : [abhiram.deshpande00@gmai
 ### Summary
 * Provides support for Point, Line and Vector Mathematics
 * Contains Makefile for easy build at client-side
+### 08-Nov-2024
+* Minimum CMkae version now needed is 3.25
